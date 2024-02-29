@@ -43,7 +43,7 @@ Once completed feed the backend with sample data which can be done by
     $ python feed.py
 
 ### AWS SNS Setup
-The notification are currently handled by simple notification service
+The notifications are currently handled by simple notification service
 
 > Login to your aws account
 > Create new sns topic
@@ -67,3 +67,4 @@ Start with this to receive your first update on finances
 
 ## There's more to come
 
+![Screenshot_20240229_152908_Messages](https://github.com/Dhirajjjj/FinApp/assets/69754979/59c91a78-f97f-4d66-b85b-b0e2cd5652d1)
